@@ -3,7 +3,7 @@
 #### Live Website Link (web app): [Click here](https://gymexercises01.netlify.app/).
 
 ### Code link  
-01. Code Link (forClone) : [Click here](). (N.B. For privacy purpose, this is only sample code and not include all file (App.css & index.css), below is full/production/main code link).
+01. Code Link (forClone) : [Click here](https://github.com/nurulcse7/gym_exercises-clone). (N.B. For privacy purpose, this is only sample code and not include all file (fetchData.js), below is full/production/main code link).
 02. Code Link (forProduction/Origin) : [Click here](https://github.com/nurulcse7/gym_exercises). 
 
 ### Description
