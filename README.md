@@ -59,7 +59,7 @@ Creating the best and most modern Fitness Exercises App using two separate APIs
 
 #### 04. Modern React 18 Fitness Exercises App With APIs
 01. Live website link : [Click here](https://gymexercises01.netlify.app/).
-02. Code Link (forClone) : [Click here](). (N.B. For privacy purpose, this is only sample code and not include all file (App.css & index.css), below is full/production/main code link).
+02. Code Link (forClone) : [Click here](https://github.com/nurulcse7/gym_exercises-clone). (N.B. For privacy purpose, this is only sample code and not include all file (fetchData.js), below is full/production/main code link).
 03. Code Link (forProduction/Origin) : [Click here](https://github.com/nurulcse7/gym_exercises). 
 04. (If you like my code don't forget starred on my GitHub repository).
 
